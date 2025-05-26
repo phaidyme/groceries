@@ -24,7 +24,7 @@ unit_multipliers = {
 }
 
 with open(
-    "Release 2 - Nutrient file/All solids & liquids per 100g-Table 1.csv",
+    "All solids & liquids per 100g-Table 1.csv",
     newline="",
     encoding="utf-8",
 ) as csvfile:

@@ -1,396 +1,94 @@
-text = """Mushrooms Cups Loose Per Kg
-$12.90
-$12.90 / 1KG
-kg
-
-1.4 kg in cart
-Hass Avocado each
-$1.80
-$1.80 / 1EA
-
-1 item(s) in cart
-Cabbage Red Quarter each
-$1.95
-$1.95 / 1EA
-
-1 item(s) in cart
-Fresh Granny Smith Apples each
-$0.96
-$0.96 / 1EA
-
-1 item(s) in cart
-Cavendish Bananas each
-$0.86
-$0.86 / 1EA
-
-1 item(s) in cart
-Fresh Broccoli each
-$1.95
-$1.95 / 1EA
-
-1 item(s) in cart
-Woolworths Green Cabbage Quarter each
-$1.95
-$1.95 / 1EA
-
-1 item(s) in cart
-Capsicum Green each
-$1.98
-$1.98 / 1EA
-
-1 item(s) in cart
-Red Capsicum each
-$2.48
-$2.48 / 1EA
-
-1 item(s) in cart
-Carrot Fresh each
-$0.35
-$0.35 / 1EA
-
-9 item(s) in cart
-Lebanese Cucumbers each
-$1.06
-$1.06 / 1EA
-
-3 item(s) in cart
-Pineapple Naturally Sweet WhoLe each
-$5.50
-$5.50 / 1EA
-
-1 item(s) in cart
-Eggplant Fresh each
-$2.85
-$2.85 / 1EA
-
-1 item(s) in cart
-White Seedless Grapes Bag Approx. 900g each
-$6.21
-$6.21 / 1EA
-
-1 item(s) in cart
-Kiwi Fruit Green each
-$0.95
-$0.95 / 1EA
-
-1 item(s) in cart
-Onion Brown each
-$0.59
-$0.59 / 1EA
-
-2 item(s) in cart
-Onion Red each
-$0.86
-$0.86 / 1EA
-
-2 item(s) in cart
-Onion White each
-$0.89
-$0.89 / 1EA
-
-2 item(s) in cart
-Passionfruit Fresh each
-$1.50
-$1.50 / 1EA
-
-1 item(s) in cart
-Spinach English Salad Bunch
-$3.90
-$3.90 / 1EA
-
-2 item(s) in cart
-Iceberg Lettuce each
-$3.50
-$3.50 / 1EA
-
-1 item(s) in cart
-Truss Tomatoes each
-$1.53
-$1.53 / 1EA
-
-3 item(s) in cart
-Green Zucchini each
-$0.98
-$0.98 / 1EA
-
-1 item(s) in cart
-Grapefruit Red Flesh each
-$1.29
-$1.29 / 1EA
-
-1 item(s) in cart
-Orange Navel each
-$1.29
-$1.29 / 1EA
-
-1 item(s) in cart
-Pomegranate each
-$5.50
-$5.50 / 1EA
-
-1 item(s) in cart
-Kanzi Apple each
-$1.14
-$1.14 / 1EA
-
-1 item(s) in cart
-Garlic Head each
-$1.88
-$1.88 / 1EA
-
-1 item(s) in cart
-Medjool Dates Punnet 450g
-$12.50
-$27.78 / 1KG
-
-1 item(s) in cart
-SAVE $6.00
-Salmon Tasmanian Atlantic Fillets Skinned & Boned Per Kg
-$40.00
-$40.00 / 1KG
-kg
-
-0.2 kg in cart
-SAVE $0.50
-Deli Leg Ham Shaved From The Deli Per Kg
-$19.00
-$19.00 / 1KG
-kg
-
-0.3 kg in cart
-Woolworths Pork Mince 800g
-$8.00
-$10.00 / 1KG
-
-1 item(s) in cart
-Woolworths RSPCA Approved Chicken Breast Fillet Min. 300g
-$12.00
-$12.00 / 1KG
-kg
-
-0.3 kg in cart
-EVERYDAY LOW PRICE
-Essentials Salted Butter 500g
-$7.00
-$1.40 / 100G
-
-1 item(s) in cart
-In-Store Only
-Woolworths 12 Extra Large Free Range Eggs 700g
-Woolworths Greek Style Yoghurt 2kg
-$8.00
-$0.40 / 100G
-
-1 item(s) in cart
- Woolworths Tasty Cheese Block 500g
-$8.30
-$16.60 / 1KG
-
-1 item(s) in cart
-SAVE $1.30
-Vitasoy Unsweetened Oat Long Life Milk UHT 1L
-$2.00
-$2.00 / 1L
-
-3 item(s) in cart
-Woolworths 35hr Sourdough Loaf Wholemeal each
-Afternoon delivery & pick up
-$7.00
-$7.00 / 1EA
-
-1 item(s) in cart
-EVERYDAY LOW PRICE
-Woolworths Peas 500g
-$2.50
-$5.00 / 1KG
-
-1 item(s) in cart
-LOWER SHELF PRICE
-La Gina Italian Tomato Paste Passata 680g
-$1.95
-$0.29 / 100G
-Was $2.20 - 13/05/2025
-
-1 item(s) in cart
-EVERYDAY LOW PRICE
-Macro Organic Adzuki Beans 420g
-$1.50
-$3.57 / 1KG
-
-1 item(s) in cart
-EVERYDAY LOW PRICE
-Macro Organic Pinto Beans 420g
-$1.50
-$3.57 / 1KG
-
-1 item(s) in cart
-SAVE $5.50
-Twinings English Breakfast Tea Bags 100 pack
-$8.00
-$0.08 / 1EA
-
-1 item(s) in cart
-SAVE $2.25
-Campbell's Real Stock Chicken Liquid Stock 1L
-$2.25
-$0.23 / 100ML
-
-1 item(s) in cart
-Essentials Tuna Chunks In Spring Water 425g
-$3.30
-$7.76 / 1KG
-
-1 item(s) in cart
-Lee Kum Kee Soy Sauce Premium 500ml
-$4.30
-$0.86 / 100ML
-
-1 item(s) in cart
-Moccona Freeze Dried Instant Coffee Classic Medium Roast 400g
-$32.50
-$8.13 / 100G
-
-1 item(s) in cart
-Woolworths Corn Sweet Kernels 420g
-$1.20
-$2.86 / 1KG
-
-1 item(s) in cart
-LOWER SHELF PRICE
-Woolworths Tomato Sauce Squeeze 500ml
-$2.00
-$0.40 / 100ML
-Was $2.10 - 13/05/2025
-
-1 item(s) in cart
-EVERYDAY LOW PRICE
-Woolworths Pure Honey 400g
-$5.70
-$1.43 / 100G
-
-1 item(s) in cart
-LOWER AUTUMN PRICE
-Nice Rice Medium Grain Brown Rice 1kg
-$3.50
-$0.35 / 100G
-Was $5 - 25/02/2025
-
-1 item(s) in cart
-Woolworths Whole Egg Mayonnaise 440g
-$3.70
-$0.84 / 100G
-
-1 item(s) in cart
-EVERYDAY LOW PRICE
-Macro Organic Black Bean No Added Salt 420g
-$1.50
-$3.57 / 1KG
-
-1 item(s) in cart
-EVERYDAY LOW PRICE
-Macro Organic Chickpeas 425g
-$1.50
-$3.53 / 1KG
-
-1 item(s) in cart
-EVERYDAY LOW PRICE
-Macro Organic Cannellini Beans 425g
-$1.50
-$3.53 / 1KG
-
-1 item(s) in cart
-Woolworths Canola Oil 750ml
-$3.80
-$0.51 / 100ML
-
-1 item(s) in cart
-EVERYDAY LOW PRICE
-Macro Organic Lentils 425g
-$1.50
-$3.53 / 1KG
-
-1 item(s) in cart
-Laoganma Crispy Chilli Oil 210g
-$4.40
-$2.10 / 100G
-
-1 item(s) in cart
-Don Italian Style Salami Shaved From The Deli per kg
-$36.50
-$36.50 / 1KG
-kg
-
-0.3 kg in cart
-SAVE $13.50
-D'Orsogna Chorizo From The Deli Per Kg
-$13.50
-$13.50 / 1KG
-kg
-
-0.39 kg in cart
-"""
-
 import re
+import csv
 
+with open("cart.txt", 'r') as file:
+    text = file.read().lower()
+with open("weights.csv", 'r') as file:
+    weights = {name: weight for name, weight in csv.reader(file.readlines())}
 
-lines = text.strip().splitlines()
-items = []
+items = [item.split('\n')[:-1] for item in text.split('in cart')][:-1]
+frequencies = {number: [] for number in range(10)}
 
-i = 0
-while i < len(lines):
-    line = lines[i].strip()
+for item in items:
+    cleaned_item = []
+    for line in item:
+        line = line.strip()
+        if line in ["", "kg", "in-store only", 'afternoon delivery & pick up']: continue
+        if any(line.startswith(phrase) for phrase in ["was $", "save $"]): continue
+        if any([all([word in line for word in l]) for l in [["low", "price"]]]): continue
+        cleaned_item.append(line)
 
-    # Match item names (usually followed by a line starting with $)
-    if line and not line.startswith("$") and not line.endswith("in cart"):
-        name = line
-        # Look ahead for price
-        if i + 1 < len(lines) and lines[i + 1].startswith("$"):
-            price_line = lines[i + 1]
-            unit_price = re.search(r"\$(\d+\.\d+)", price_line)
-            unit_price = float(unit_price.group(1)) if unit_price else None
-            i += 1
-            # Check for quantity in cart
-            if i + 2 < len(lines) and "in cart" in lines[i + 2]:
-                cart_line = lines[i + 2]
-                qty_match = re.search(r"([\d.]+)\s*(kg|item)", cart_line)
-                if qty_match:
-                    qty = float(qty_match.group(1))
-                    cost = (
-                        round(qty * unit_price, 2)
-                        if unit_price is not None
-                        else None
-                    )
-                    items.append(
-                        {
-                            "name": name,
-                            "unit_price": unit_price,
-                            "quantity": qty,
-                            "cost": cost,
-                        }
-                    )
-                    i += 1
-                else:
-                    items.append(
-                        {
-                            "name": name,
-                            "unit_price": unit_price,
-                            "quantity": 1,
-                            "cost": unit_price,
-                        }
-                    )
-                    i += 1
+    frequencies[len(cleaned_item)].append(cleaned_item)
+
+for item in frequencies[3]:
+    name = item[0]
+    price = item[1]
+    if not price.startswith('$'):
+        print(1, item)
+    if not (item[2].startswith('$') or '/' in item[2] or (item[2].endswith('g') or item[2].endswith('l') or item[2].endswith('ea'))):
+        print(2, item)
+    amount = False
+    if name.endswith(" each"):
+        name = name[:-len(" each")]
+    if name.endswith("pack"):
+        amount = float(name.split()[-2])
+    elif name.endswith('l') or name.endswith('g'):
+        # practically I don't need this for most items since item[2] is enough but since I wrote it I might as well use it cause I need something like it for packs and stuff anyways I guess
+        try:
+            if name[-2] == 'm':
+                amount = float(name.split()[-1][:-2] + 'e-3')
+            elif name[-2] == 'k':
+                amount = float(name.split()[-1][:-2] + 'e+3')
             else:
-                items.append(
-                    {
-                        "name": name,
-                        "unit_price": unit_price,
-                        "quantity": 1,
-                        "cost": unit_price,
-                    }
-                )
-        else:
-            # Name with no price (skip)
+                amount = float(name.split()[-1][:-1])
+        except ValueError:
             pass
-    i += 1
+    unit_price, unit_amount = item[2].split(' / ')
+    if not amount and unit_amount == "1ea":
+        options = {}
+        for key, value in weights.items():
+            if key in name.split():
+                options[key] = value
+            else:
+                if key[-1] == ')':
+                    key = key.split()[0]
+                if key in name.split():
+                    options[key] = value
+                elif key[-1] == 's' and key[:-1] in name.split():
+                    options[key] = value
 
-[print(item) for item in items]
+        if len(options) != 1:
+            print(name)
+            print(options)
+            print()
+        else:
+            amount = float(list(options.values())[0])
+        if name.endswith("quarter"):
+            amount /= 4
+    if unit_amount.endswith('kg'):
+        unit_amount = float(unit_amount[:-2] + "e+3")
+    elif unit_amount.endswith('ml'):
+        unit_amount = float(unit_amount[:-2] + "e-3")
+    elif unit_amount.endswith('g') or unit_amount.endswith('l'):
+        unit_amount = float(unit_amount[:-1])
+    elif unit_amount == "1ea":
+        pass
+    else:
+        print(item)
+        raise Exception()
+    
+    if not amount:
+        amount = unit_amount
+    else:
+        if unit_amount == "1ea":
+            pass
+        elif amount != unit_amount:
+            if abs(amount / float(price[1:]) - unit_amount / float(unit_price[1:])) > 10:
+                print(item, amount, amount / float(price[1:]), unit_amount / float(unit_price[1:]))
+    print('\t', item, amount, price)
+
+for f in frequencies:
+    if frequencies[f] and f != 3:
+        print(f, len(frequencies[f]))
+        [print(fr) for fr in frequencies[f]]
+        print()
