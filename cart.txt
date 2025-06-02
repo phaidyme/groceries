@@ -3,7 +3,7 @@ $12.90
 $12.90 / 1KG
 kg
 
-1.4 kg in cart
+0.2 kg in cart
 Hass Avocado each
 $1.80
 $1.80 / 1EA
@@ -48,12 +48,12 @@ Carrot Fresh each
 $0.35
 $0.35 / 1EA
 
-9 item(s) in cart
+1 item(s) in cart
 Lebanese Cucumbers each
 $1.06
 $1.06 / 1EA
 
-3 item(s) in cart
+1 item(s) in cart
 Pineapple Naturally Sweet WhoLe each
 $5.50
 $5.50 / 1EA
@@ -64,7 +64,7 @@ $2.85
 $2.85 / 1EA
 
 1 item(s) in cart
-White Seedless Grapes Bag Approx. 900g each
+White Seedless Grapes
 $6.21
 $6.21 / 1EA
 
@@ -78,17 +78,17 @@ Onion Brown each
 $0.59
 $0.59 / 1EA
 
-2 item(s) in cart
+1 item(s) in cart
 Onion Red each
 $0.86
 $0.86 / 1EA
 
-2 item(s) in cart
+1 item(s) in cart
 Onion White each
 $0.89
 $0.89 / 1EA
 
-2 item(s) in cart
+1 item(s) in cart
 Passionfruit Fresh each
 $1.50
 $1.50 / 1EA
@@ -98,7 +98,7 @@ Spinach English Salad Bunch
 $3.90
 $3.90 / 1EA
 
-2 item(s) in cart
+1 item(s) in cart
 Iceberg Lettuce each
 $3.50
 $3.50 / 1EA
@@ -108,7 +108,7 @@ Truss Tomatoes each
 $1.53
 $1.53 / 1EA
 
-3 item(s) in cart
+1 item(s) in cart
 Green Zucchini each
 $0.98
 $0.98 / 1EA
@@ -179,13 +179,13 @@ In-Store Only
 Woolworths 12 Extra Large Free Range Eggs 700g
 $10
 $10 / 700g
-in cart
+1 item(s) in cart
 Woolworths Greek Style Yoghurt 2kg
 $8.00
 $0.40 / 100G
 
 1 item(s) in cart
- Woolworths Tasty Cheese Block 500g
+Woolworths Tasty Cheese Block 500g
 $8.30
 $16.60 / 1KG
 
@@ -195,7 +195,7 @@ Vitasoy Unsweetened Oat Long Life Milk UHT 1L
 $2.00
 $2.00 / 1L
 
-3 item(s) in cart
+1 item(s) in cart
 Woolworths 35hr Sourdough Loaf Wholemeal each
 Afternoon delivery & pick up
 $7.00
@@ -301,7 +301,7 @@ Macro Organic Cannellini Beans 425g
 $1.50
 $3.53 / 1KG
 
-1 item(s) in cart
+0 item(s) in cart
 Woolworths Canola Oil 750ml
 $3.80
 $0.51 / 100ML
@@ -331,3 +331,23 @@ $13.50 / 1KG
 kg
 
 0.39 kg in cart
+Just Caught Garlic Prawns 500g
+$14.30
+$28.60 / 1KG
+
+1 item(s) in cart
+Just Caught Cooked & Shelled Mussel Meat 1kg
+$14.00
+$14.00 / 1KG
+
+0 item(s) in cart
+Kellogg's Just Right Apricot & Sultana Breakfast Cereal 740g
+$10.80
+$1.46 / 100G
+
+1 item(s) in cart
+Essentials Iodised Table Salt Drum 500g
+$2.10
+$0.04 / 10G
+
+0 item(s) in cart
