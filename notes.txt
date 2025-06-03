@@ -1,0 +1,26 @@
+Breakfast
+30 = eggs, cereal
+
+Lunch/Dinner
+60  = 4 (chicken + coleslaw)
+    + 4 (tuna salad)
+    + 4 (prawn pasta with white sauce)
+    + 8 (burrito: minced pork, black beans, brown rice, cheese, salsa, avocado)
+    + 8x
+        brown rice 62.5g
+        red kidney beans 40g
+        salmon 30g
+        Corn 25g
+        Capsicum 25g
+        Green Peas 30g
+    220g corn leftover
+    + 4 baked beans (3 bean mix) and pork sausage
+
+Sides:
+    Yoghurt
+    Pineapple
+
+Drinks:
+    Coffee
+    Tea
+    Oat Milk
